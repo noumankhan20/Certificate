@@ -1,0 +1,6 @@
+{
+  "/admin/create-certificate/page": "app/admin/create-certificate/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/user/access-certificates/page": "app/user/access-certificates/page.js",
+  "/admin/certificates/page": "app/admin/certificates/page.js"
+}
